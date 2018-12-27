@@ -1,4 +1,4 @@
-setwd("F:/Britannia/data_science/coursera/John_Hopkins/R_programming/Week_4")
+
 #getwd()
 #list.files()
 #head(outcome)
