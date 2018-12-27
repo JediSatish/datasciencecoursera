@@ -1,4 +1,4 @@
-setwd("F:/Britannia/data_science/coursera/John_Hopkins/R_programming/Week_4")
+
 
 rankall <- function( outcome, num = "best") 
 {
